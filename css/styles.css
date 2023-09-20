@@ -43,6 +43,9 @@ body {
   list-style-type: none;
   font-style: normal;
 }
+address {
+  font-style: normal;
+}
 .address-link {
   text-decoration: none;
   color: var(--SLATE, #434455);
