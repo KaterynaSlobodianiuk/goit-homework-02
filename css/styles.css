@@ -41,6 +41,7 @@ body {
 }
 .address-list {
   list-style-type: none;
+  font-style: normal;
 }
 .address-link {
   text-decoration: none;
